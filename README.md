@@ -109,4 +109,4 @@ AR Sketch Pad is an augmented reality sketch pad designed for heads-up display U
 6. Open a pull request.
 
 ## License
-This project is the property of Jacob Thomas Vespers
+A mention of Jacob Thomas Vespers would be awesome, have fun. MIT
